@@ -49,4 +49,3 @@ sum of 1+2 is 3
 (gdb) c
 Continuing.
 [Inferior 1 (process 99) exited normally]
-(gdb) 
